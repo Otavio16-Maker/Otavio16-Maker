@@ -1,16 +1,13 @@
-## Hi there 👋
+## _SURPRISE HAHAHA_ 🥳
 
-<!--
-**Otavio16-Maker/Otavio16-Maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Otávio Martins
 
-Here are some ideas to get you started:
+- Estou estudando o alura
+- estou me desenvolveno na linguagem JavaScript
+- Estou estudando no Colégio CCM João XXIII no primeiro ano do ensino Médio no ano de 2024
+- Aqui eu deixo salvo meus proprios projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CASO QUEIRA CONVERSAR COIGO AQUI EM BAIXO ESTÁ MEU CONTATO 👇🙃
+
+- otavio.martins.rodrigues@escola.pr.gov.br
+

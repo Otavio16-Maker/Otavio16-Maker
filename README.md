@@ -7,7 +7,7 @@ meu nome é Otávio Martins
 - Estou estudando no Colégio CCM João XXIII no primeiro ano do ensino Médio no ano de 2024
 - Aqui eu deixo salvo meus proprios projetos
 
-### CASO QUEIRA CONVERSAR COIGO AQUI EM BAIXO ESTÁ MEU CONTATO 👇🙃
+### CASO QUEIRA CONVERSAR COMIGO AQUI EM BAIXO ESTÁ MEU CONTATO 👇🙃
 
 - otavio.martins.rodrigues@escola.pr.gov.br
 

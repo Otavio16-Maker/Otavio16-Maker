@@ -1,6 +1,6 @@
 ## _SURPRISE HAHAHA_ 🥳
 
-meu nome é Otávio Martins
+meu nome é Otávio Rodrigues
 
 - Estou estudando o alura
 - estou me desenvolveno na linguagem JavaScript
